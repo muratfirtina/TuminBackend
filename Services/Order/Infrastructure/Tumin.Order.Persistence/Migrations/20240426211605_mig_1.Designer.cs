@@ -12,7 +12,7 @@ using Tumin.Order.Persistence.Context;
 namespace Tumin.Order.Persistence.Migrations
 {
     [DbContext(typeof(OrderDbContext))]
-    [Migration("20240426081950_mig_1")]
+    [Migration("20240426211605_mig_1")]
     partial class mig_1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

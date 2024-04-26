@@ -240,3 +240,4 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Catalog/Tumin.Catalog/obj/Debug/net6.0/Tumin.Catalog.pdb
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Catalog/Tumin.Catalog/obj/Debug/net6.0/Tumin.Catalog.genruntimeconfig.cache
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Catalog/Tumin.Catalog/obj/Debug/net6.0/ref/Tumin.Catalog.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Catalog/Tumin.Catalog/obj/Debug/net6.0/Tumin.Catalog.sourcelink.json

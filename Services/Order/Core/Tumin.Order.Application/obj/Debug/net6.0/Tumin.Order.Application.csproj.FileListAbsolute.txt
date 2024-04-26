@@ -13,3 +13,4 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Application/obj/Debug/net6.0/refint/Tumin.Order.Application.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Application/obj/Debug/net6.0/Tumin.Order.Application.pdb
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Application/obj/Debug/net6.0/ref/Tumin.Order.Application.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Application/obj/Debug/net6.0/Tumin.Order.Application.sourcelink.json

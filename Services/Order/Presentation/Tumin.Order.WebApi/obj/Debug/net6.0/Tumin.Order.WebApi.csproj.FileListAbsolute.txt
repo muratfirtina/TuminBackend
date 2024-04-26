@@ -251,3 +251,4 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/MediatR.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/MediatR.Contracts.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.sourcelink.json
