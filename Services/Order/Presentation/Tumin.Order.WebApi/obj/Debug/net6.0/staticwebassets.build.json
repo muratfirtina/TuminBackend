@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WmfHpjeBdLX072jNWkSbHl0xM0va2cH63HNbNLh8Qz0=",
+  "Source": "Tumin.Order.WebApi",
+  "BasePath": "_content/Tumin.Order.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

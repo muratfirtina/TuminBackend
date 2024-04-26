@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Tumin.Order.WebApi.props" />
+</Project>

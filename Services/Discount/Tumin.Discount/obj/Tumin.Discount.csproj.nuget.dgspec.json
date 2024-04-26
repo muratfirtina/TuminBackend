@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Discount/Tumin.Discount/Tumin.Discount.csproj": {}
+  },
+  "projects": {
+    "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Discount/Tumin.Discount/Tumin.Discount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Discount/Tumin.Discount/Tumin.Discount.csproj",
+        "projectName": "Tumin.Discount",
+        "projectPath": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Discount/Tumin.Discount/Tumin.Discount.csproj",
+        "packagesPath": "/Users/muratfirtina/.nuget/packages/",
+        "outputPath": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Discount/Tumin.Discount/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muratfirtina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
