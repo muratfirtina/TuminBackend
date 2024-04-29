@@ -12,8 +12,8 @@ using Tumin.Cargo.DataAccessLayer.Concrete;
 namespace Tumin.Cargo.DataAccessLayer.Migrations
 {
     [DbContext(typeof(CargoDbContext))]
-    [Migration("20240429101925_mig_1")]
-    partial class mig_1
+    [Migration("20240429135201_mig_2")]
+    partial class mig_2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -43,9 +43,11 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
 
             modelBuilder.Entity("Tumin.Cargo.EntityLayer.Concrete.CargoCustomer", b =>
                 {
-                    b.Property<Guid>("CargoCustomerId")
+                    b.Property<int>("CargoCustomerId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uuid");
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("CargoCustomerId"));
 
                     b.Property<string>("CargoCustomerAddress")
                         .IsRequired()
@@ -82,15 +84,14 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
 
             modelBuilder.Entity("Tumin.Cargo.EntityLayer.Concrete.CargoDetail", b =>
                 {
-                    b.Property<Guid>("CargoDetailId")
+                    b.Property<int>("CargoDetailId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uuid");
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("CargoDetailId"));
 
                     b.Property<int>("CargoCompanyId")
                         .HasColumnType("integer");
-
-                    b.Property<Guid>("CargoCustomerId")
-                        .HasColumnType("uuid");
 
                     b.Property<string>("CargoTrackingNumber")
                         .IsRequired()
@@ -107,8 +108,6 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
                     b.HasKey("CargoDetailId");
 
                     b.HasIndex("CargoCompanyId");
-
-                    b.HasIndex("CargoCustomerId");
 
                     b.ToTable("CargoDetails");
                 });
@@ -145,15 +144,7 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Tumin.Cargo.EntityLayer.Concrete.CargoCustomer", "CargoCustomer")
-                        .WithMany()
-                        .HasForeignKey("CargoCustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("CargoCompany");
-
-                    b.Navigation("CargoCustomer");
                 });
 #pragma warning restore 612, 618
         }

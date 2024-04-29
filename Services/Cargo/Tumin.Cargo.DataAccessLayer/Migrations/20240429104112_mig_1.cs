@@ -27,7 +27,8 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
                 name: "CargoCustomers",
                 columns: table => new
                 {
-                    CargoCustomerId = table.Column<Guid>(type: "uuid", nullable: false),
+                    CargoCustomerId = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     CargoCustomerName = table.Column<string>(type: "text", nullable: false),
                     CargoCustomerSurname = table.Column<string>(type: "text", nullable: false),
                     CargoCustomerPhone = table.Column<string>(type: "text", nullable: false),
@@ -60,10 +61,11 @@ namespace Tumin.Cargo.DataAccessLayer.Migrations
                 name: "CargoDetails",
                 columns: table => new
                 {
-                    CargoDetailId = table.Column<Guid>(type: "uuid", nullable: false),
+                    CargoDetailId = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     SenderCustomer = table.Column<string>(type: "text", nullable: false),
                     ReceiverCustomer = table.Column<string>(type: "text", nullable: false),
-                    CargoCustomerId = table.Column<Guid>(type: "uuid", nullable: false),
+                    CargoCustomerId = table.Column<int>(type: "integer", nullable: false),
                     CargoCompanyId = table.Column<int>(type: "integer", nullable: false),
                     CargoTrackingNumber = table.Column<string>(type: "text", nullable: false)
                 },

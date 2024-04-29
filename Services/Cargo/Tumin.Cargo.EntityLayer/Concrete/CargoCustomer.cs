@@ -2,7 +2,7 @@ namespace Tumin.Cargo.EntityLayer.Concrete;
 
 public class CargoCustomer
 {
-    public Guid CargoCustomerId { get; set; }
+    public int CargoCustomerId { get; set; }
     public string CargoCustomerName { get; set; }
     public string CargoCustomerSurname { get; set; }
     public string CargoCustomerPhone { get; set; }

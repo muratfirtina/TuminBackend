@@ -88,7 +88,7 @@ namespace Tumin.IdentityServer
                 IdentityServerConstants.StandardScopes.OpenId,
                 IdentityServerConstants.StandardScopes.Profile
                 },
-                AccessTokenLifetime=600
+                AccessTokenLifetime=3600
             }
         };
     }
