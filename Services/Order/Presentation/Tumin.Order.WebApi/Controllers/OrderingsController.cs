@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Tumin.Order.Application.Features.Mediator.Commands.OrderingCommands;
@@ -10,6 +11,7 @@ using Tumin.Order.Application.Features.Mediator.Queries.OrderingQueries;
 
 namespace Tumin.Order.WebApi.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class OrderingsController : ControllerBase

@@ -9,7 +9,6 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.AssemblyInfoInputs.cache
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.AssemblyInfo.cs
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.csproj.CoreCompileInputs.cache
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Or.86B62977.Up2Date
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/refint/Tumin.Order.Persistence.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.pdb
@@ -17,4 +16,4 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/ref/Tumin.Order.Persistence.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/bin/Debug/net6.0/Tumin.Order.Application.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/bin/Debug/net6.0/Tumin.Order.Application.pdb
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.sourcelink.json
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/obj/Debug/net6.0/Tumin.Order.Persistence.csproj.CopyComplete

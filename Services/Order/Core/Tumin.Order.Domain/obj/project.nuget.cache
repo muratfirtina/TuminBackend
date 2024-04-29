@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kyBXjikLQNQv377aTJ4QB3/Oyibhs+DocpS7ofgT8Osaw5VK8opNAwxbPY5TcO4hoQahcUvpEMKhkiYYmGtxgQ==",
+  "dgSpecHash": "f1n+wxvU9a8YTSzuBjc9vJSDA7KBaGcsJvx4zbrROx7MsuZx5tpu1LkQyY2Oi1LW3/VB6D2wo4tmZ6nTKQzP0A==",
   "success": true,
   "projectFilePath": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/Tumin.Order.Domain.csproj",
-  "expectedPackageFiles": [
-    "/Users/muratfirtina/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -41,13 +41,7 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.MvcApplicationPartsAssemblyInfo.cache
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets.build.json
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets.development.json
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets/msbuild.Tumin.Order.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets/msbuild.build.Tumin.Order.WebApi.props
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Tumin.Order.WebApi.props
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Tumin.Order.WebApi.props
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/staticwebassets.pack.json
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/scopedcss/bundle/Tumin.Order.WebApi.styles.css
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Or.C2644AD8.Up2Date
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/refint/Tumin.Order.WebApi.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.pdb
@@ -251,4 +245,12 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/MediatR.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/MediatR.Contracts.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.sourcelink.json
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/obj/Debug/net6.0/Tumin.Order.WebApi.csproj.CopyComplete
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Presentation/Tumin.Order.WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll

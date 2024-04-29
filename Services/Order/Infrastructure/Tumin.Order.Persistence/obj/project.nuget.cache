@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pUgfbASR+rBhuGwfhE2J94beGAju25W2UAPmyGprJ0IsbMHhQjBxTQtAbPPra8fe2PM3pEquJ0Y3eG/qXefOiw==",
+  "dgSpecHash": "jAug8F8GPDiSKq7yJTuUeYERB+lgLbLJoUmJSSD/cdeK0KiJMEgencYZ8WIK4B8pgXEltpX7LYBohj3ezpgmLg==",
   "success": true,
   "projectFilePath": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Infrastructure/Tumin.Order.Persistence/Tumin.Order.Persistence.csproj",
   "expectedPackageFiles": [
@@ -33,9 +33,7 @@
     "/Users/muratfirtina/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "/Users/muratfirtina/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/muratfirtina/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "/Users/muratfirtina/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

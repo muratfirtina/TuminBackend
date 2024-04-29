@@ -1,3 +1,5 @@
+using System;
+
 namespace Tumin.Discount.Entites;
 
 public class Coupon

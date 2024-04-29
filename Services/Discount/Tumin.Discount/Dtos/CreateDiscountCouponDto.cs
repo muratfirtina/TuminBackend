@@ -1,3 +1,5 @@
+using System;
+
 namespace Tumin.Discount.Dtos;
 
 public class CreateDiscountCouponDto

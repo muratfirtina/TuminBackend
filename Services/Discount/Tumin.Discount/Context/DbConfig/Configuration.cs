@@ -1,3 +1,6 @@
+using System.IO;
+using Microsoft.Extensions.Configuration;
+
 namespace Tumin.Discount.Context.DbConfig;
 
 public class Configuration

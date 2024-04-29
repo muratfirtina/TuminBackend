@@ -9,4 +9,4 @@
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/obj/Debug/net6.0/refint/Tumin.Order.Domain.dll
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/obj/Debug/net6.0/Tumin.Order.Domain.pdb
 /Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/obj/Debug/net6.0/ref/Tumin.Order.Domain.dll
-/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/obj/Debug/net6.0/Tumin.Order.Domain.sourcelink.json
+/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Domain/obj/Debug/net6.0/Tumin.Order.Domain.csproj.AssemblyReference.cache

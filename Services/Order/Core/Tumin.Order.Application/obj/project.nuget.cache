@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SN83iSzZ3o1VIZaE839LlRiUuVEPMvX92yW4p/WRvUZ98rLTA4huzeE9WorvGNwpKSnsg//6/k7mvi/GLqqUKQ==",
+  "dgSpecHash": "YkwhfbWYsGPWRiCTmaSwuVdGa2xCsTC99Fo7uGI2iXEWBfgsHZEakCx/XWkt0GElvLo6FHl/0XTSvpOpSA3dmA==",
   "success": true,
   "projectFilePath": "/Users/muratfirtina/Projects/GitHub/Tumin/Services/Order/Core/Tumin.Order.Application/Tumin.Order.Application.csproj",
   "expectedPackageFiles": [
     "/Users/muratfirtina/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/muratfirtina/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "/Users/muratfirtina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "/Users/muratfirtina/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
