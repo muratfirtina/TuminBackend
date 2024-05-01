@@ -66,7 +66,7 @@ namespace Tumin.IdentityServer
             {
                 ClientId="TuminManagerId",
                 ClientName="Tumin Manager User",
-                AllowedGrantTypes=GrantTypes.ClientCredentials,
+                AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,
                 ClientSecrets={new Secret("tuminsecret".Sha256()) },
                 AllowedScopes={ "CatalogReadPermission", "CatalogFullPermission", "BasketFullPermission", "OcelotFullPermission", "CommentFullPermission", "PaymentFullPermission", "ImageFullPermission","DiscountFullPermission","OrderFullPermisson","MessageFullPermission",
                 IdentityServerConstants.LocalApi.ScopeName,
@@ -80,7 +80,7 @@ namespace Tumin.IdentityServer
             {
                 ClientId="TuminAdminId",
                 ClientName="Tumin Admin User",
-                AllowedGrantTypes=GrantTypes.ClientCredentials,
+                AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,
                 ClientSecrets={new Secret("tuminsecret".Sha256()) },
                 AllowedScopes={ "CatalogFullPermission", "CatalogReadPermission", "DiscountFullPermission", "OrderFullPermisson","CargoFullPermission","BasketFullPermission","OcelotFullPermission","CommentFullPermission","PaymentFullPermission","ImageFullPermission",
                 IdentityServerConstants.LocalApi.ScopeName,
